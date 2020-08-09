@@ -1,0 +1,187 @@
+{
+  "project_info": {
+    "project_number": "193906573384",
+    "firebase_url": "https://curso-android-firebase-389f8.firebaseio.com",
+    "project_id": "curso-android-firebase-389f8",
+    "storage_bucket": "curso-android-firebase-389f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193906573384:android:96b1e7a88352f818",
+        "android_client_info": {
+          "package_name": "com.hacu.appfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193906573384-oiqq4e3ujoskle240kqrh9mder40dreo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hacu.appfirebase",
+            "certificate_hash": "7a38c7e7b2ee9e05fb2c6bb82f51c4bf5e0a6108"
+          }
+        },
+        {
+          "client_id": "193906573384-nmmcgiv36jp8327ai73j2e0s3c0okvdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkCf-wGUHlfyeDWPO6m_XEGsI9zYRltZU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193906573384-nmmcgiv36jp8327ai73j2e0s3c0okvdk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193906573384:android:54da56667a292b13",
+        "android_client_info": {
+          "package_name": "com.hacu.menudecomidas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193906573384-hus0945u3jibnat8noscccrghddkb1l0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hacu.menudecomidas",
+            "certificate_hash": "7a38c7e7b2ee9e05fb2c6bb82f51c4bf5e0a6108"
+          }
+        },
+        {
+          "client_id": "193906573384-nmmcgiv36jp8327ai73j2e0s3c0okvdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkCf-wGUHlfyeDWPO6m_XEGsI9zYRltZU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193906573384-nmmcgiv36jp8327ai73j2e0s3c0okvdk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193906573384:android:fd59cbe5982688d3",
+        "android_client_info": {
+          "package_name": "com.hacu.misfotografias"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193906573384-emu9rkovlahfnlku7ir3tmkmkm00kbna.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hacu.misfotografias",
+            "certificate_hash": "7a38c7e7b2ee9e05fb2c6bb82f51c4bf5e0a6108"
+          }
+        },
+        {
+          "client_id": "193906573384-nmmcgiv36jp8327ai73j2e0s3c0okvdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkCf-wGUHlfyeDWPO6m_XEGsI9zYRltZU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193906573384-nmmcgiv36jp8327ai73j2e0s3c0okvdk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193906573384:android:3a1c1e1e831425e1",
+        "android_client_info": {
+          "package_name": "com.hacu.ofertas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193906573384-n2digc702pn7if8caa8b53s4otns3vjf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hacu.ofertas",
+            "certificate_hash": "7a38c7e7b2ee9e05fb2c6bb82f51c4bf5e0a6108"
+          }
+        },
+        {
+          "client_id": "193906573384-nmmcgiv36jp8327ai73j2e0s3c0okvdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkCf-wGUHlfyeDWPO6m_XEGsI9zYRltZU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193906573384-nmmcgiv36jp8327ai73j2e0s3c0okvdk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
